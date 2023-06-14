@@ -325,6 +325,7 @@ button:hover,
 }
 .hero__image {
   position: relative;
+/* change directory   */
   background-image: url(../images/bg-intro-mobile.svg);
   background-size: cover;
   background-repeat: no-repeat;
